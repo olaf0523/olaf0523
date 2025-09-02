@@ -9,7 +9,7 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Akshit Saxena</h1>
+<h1 align="center">Hi 👋, I'm Kenzanumezaki</h1>
 <h3 align="center">Full Stack Developer | AI SaaS Builder | DApp Creator</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/3e/c4/37/3ec43786b484c617a1ba4ea7945ec9bd.gif">
 <br>
