@@ -9,19 +9,19 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Kenzanumezaki</h1>
+<h1 align="center">Hi 👋, I'm Kenzaumezaki</h1>
 <h3 align="center">Full Stack Developer | AI SaaS Builder | DApp Creator</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/3e/c4/37/3ec43786b484c617a1ba4ea7945ec9bd.gif">
 <br>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Akshit406&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=olaf0523&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
--  Pursuing **Btech ECE** from **JC Bose University, Haryana** (2022 - 2026)
+-  Pursuing **Btech ECE** from **JC Bose University, Nanyang** (2022 - 2026)
 -  Passionate about building **AI tools** and **decentralized apps**
 -  Currently learning **Next.js** and **Typescript**
--  Reach me: **akshitsaxena450@gmail.com** || **+91 9599434696**
+-  Reach me: **kenzaumezaki@gmail.com** || **+81 9519434696**
 
 
 <br>
@@ -58,7 +58,7 @@
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Akshit406&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=olaf0523&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" 
     alt="GitHub Stats" 
     style="height: 200px; min-width: 400px; border-radius: 10px;"
   />
@@ -67,7 +67,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit406&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaf0523&layout=compact&theme=radical&hide_border=true&langs_count=8" 
     alt="Top Languages" 
     style="height: 200px; min-width: 400px; border-radius: 10px;"
   />
@@ -81,13 +81,13 @@
 ## 🤝 Let's Connect
 <br>
 <p align="center" style="margin-top: 30px;">
-  <a href="mailto:akshitsaxena450@gmail.com" style="margin: 0 10px;">
+  <a href="mailto:kenzaumezaki@gmail.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/akshit-saxena-48a496248" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/kenzan-umezaki-48a496248" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/Akshitsaxena450" target="_blank" style="margin: 0 10px;">
+  <a href="https://x.com/Kenzaumezaki450" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
 </p>
