@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=olaf0523&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
--  Pursuing **Btech ECE** from **JC Bose University, Nanyang** (2022 - 2026)
+-  Pursuing **Btech ECE** from **JC Bose University, Nanyang** 
 -  Passionate about building **AI tools** and **decentralized apps**
 -  Currently learning **Next.js** and **Typescript**
 -  Reach me: **kenzaumezaki@gmail.com** || **+81 9519434696**
