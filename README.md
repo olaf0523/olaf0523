@@ -75,19 +75,3 @@
 
 <br>
 <br>
-
-
-
-## 🤝 Let's Connect
-<br>
-<p align="center" style="margin-top: 30px;">
-  <a href="mailto:kenzaumezaki@gmail.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kenzan-umezaki-48a496248" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Kenzaumezaki450" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-</p>
